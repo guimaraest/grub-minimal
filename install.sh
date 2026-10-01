@@ -10,6 +10,7 @@ BUILD_DIR="$SCRIPT_DIR/theme"
 
 echo "installing grub-minimal"
 
+sudo rm -rf "$THEME_DIR"
 sudo mkdir -p "$THEME_DIR"
 sudo cp -r "$BUILD_DIR/." "$THEME_DIR/"
 
