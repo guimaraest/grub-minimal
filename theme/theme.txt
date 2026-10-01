@@ -1,4 +1,4 @@
-desktop-color: "#060607"
+desktop-color: "#000000"
 
 + boot_menu {
   left = 10%
