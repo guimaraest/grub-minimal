@@ -1,7 +1,7 @@
 desktop-color: "#000000"
 
 + boot_menu {
-  left = 10%
+  left = 20%
   top = 35%
   width = 80%
   height = 50%
