@@ -1,0 +1,21 @@
+desktop-color: "#060607"
+
++ boot_menu {
+  left = 10%
+  top = 35%
+  width = 80%
+  height = 50%
+
+  item_font = "SF Mono Regular 16"
+  item_color = "#aaaaaa"
+  selected_item_color = "#FFFFFF"
+
+  item_height = 32
+  item_padding = 4
+
+  icon_width = 0
+  icon_height = 0
+  item_icon_space = 0
+
+  scrollbar = false
+}
